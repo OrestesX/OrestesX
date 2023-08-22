@@ -3,7 +3,7 @@
 - 👀 Estou estudando Python e PowerBi
 - 🌱 E cursando Defesa Cibernética
 - 💞️ Pronto pra colaborar em boas ideias e que precisem de conhecimento associado com a matemática
-- 📫  Me encontrar pelo Twitter é mais rápido @Prof_Orestes ou orestes@matematica.xyz
+- 📫  Email orestes@matematica.xyz
 - 😉 Pronomes: ele/dele
 
 <div>
