@@ -1,10 +1,7 @@
 # Olá! Eu sou o Orestes 🖖
-- 👋 Eu sou professor de matemática caminhando para ser desenvolvedor
-- 👀 Estou estudando Python e PowerBi
+- 👋 Professor de matemática | Analista de Dados
 - 🌱 E cursando Defesa Cibernética
-- 💞️ Pronto pra colaborar em boas ideias e que precisem de conhecimento associado com a matemática
 - 📫  Email orestes@matematica.xyz
-- 😉 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/OrestesX">
