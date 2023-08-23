@@ -1,7 +1,7 @@
 # Olá! Eu sou o Orestes 🖖
-- 👋 Professor de matemática | Analista de Dados
-- 🌱 E cursando Defesa Cibernética
-- 📫  Email orestes@matematica.xyz
+- 👋📊 Professor de matemática | Analista de Dados
+- 🔐🛡️ Cursando Defesa Cibernética
+- 📫 Email orestes@matematica.xyz
 
   
   <div align="center" style="display: inline_block"><br>
